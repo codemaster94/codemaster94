@@ -27,10 +27,10 @@
 ### 🎮 Let's play Pokémon together~
 <img src="https://toy.aoaoao.me/image" width="300"/> 
 
-<img src="assets/blank.png" width="30"/> <a href="assets/control?button=2&callback=https://github.com/codemaster94"><img src="assets/up.png" width="30"/></a>
-<br><a href="assets/control?button=1&callback=https://github.com/codemaster94"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="assets/control?button=0&callback=https://github.com/codemaster94"><img src="assets/right.png" width="30"/></a><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><a href="assets/control?button=5&callback=https://github.com/codemaster94"><img src="assets/B.png" width="30"/></a> <a href="assets/control?button=4&callback=https://github.com/codemaster94"><img src="assets/A.png" width="30"/></a>
-<br><a href="assets/control?button=3&callback=https://github.com/codemaster94"><img src="assets/blank.png" width="30"/><img src="assets/down.png" width="30"/></a>
-<br><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><a href="assets/control?button=6&callback=https://github.com/codemaster94"><img src="assets/select.png" height="30"/></a> <a href="assets/control?button=7&callback=https://github.com/codemaster94"><img src="assets/start.png" height="30" /></a>
+<img src="assets/blank.png" width="30"/> <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/codemaster94"><img src="assets/up.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/codemaster94"><img src="assets/left.png" width="30"/></a><img src="assets/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/codemaster94"><img src="assets/right.png" width="30"/></a><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/codemaster94"><img src="assets/B.png" width="30"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/codemaster94"><img src="assets/A.png" width="30"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/codemaster94"><img src="assets/blank.png" width="30"/><img src="assets/down.png" width="30"/></a>
+<br><img src="assets/blank.png" width="30"/><img src="assets/blank.png" width="30"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/codemaster94"><img src="assets/select.png" height="30"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/codemaster94"><img src="assets/start.png" height="30" /></a>
 
 -----
 

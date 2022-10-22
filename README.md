@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <img src="Assets/L.jpg" width="180">
+    <img src="assets/L.jpg" width="180">
 </p>
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=33&color=22CBF7&center=true&vCenter=true&lines=Hi+There!;I'm+a+programmer!!;Nice+to+E-meet+you!">
